@@ -1,0 +1,3 @@
+Solution: Connect to my-gw-01.srv.dc2 via SSH first, because this host have access to my-private-db.srv.dc2. Then connect to my-private-db.srv.dc2 also via SSH
+
+To connect to host via SSH you should install openSSH server and client. Than type in terminal command $ ssh username@hostIpAddress. Then type host password and it's all, you connected to the host server via SSH
